@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #003b43;
+    color: antiquewhite;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    font-size: 56px;
+}
+
+form{
+    display: flex;
+
+}
+
+#input{
+    width: 25vw;
+    height: 40px;
+}
+
+#add{
+    width: 45px;
+    height: 40px;
+    font-size: 24px;
+    font-weight: bold;
+
+}
